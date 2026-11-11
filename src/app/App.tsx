@@ -16,7 +16,7 @@ export default function App() {
         <Hero />
         <About />
         <Catalog />
-        {/*<Gallery />*/}
+        <Gallery />
         <HowToBook />
         <Booking />
         <Footer />
