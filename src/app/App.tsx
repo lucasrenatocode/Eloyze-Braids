@@ -2,7 +2,7 @@ import { Header } from "@/app/components/Header";
 import { Hero } from "@/app/components/Hero";
 import { About } from "@/app/components/About";
 import { Catalog } from "@/app/components/Catalog";
-import { Gallery } from "@/app/components/Gallery";
+/*import { Gallery } from "@/app/components/Gallery";*/
 import { HowToBook } from "@/app/components/HowToBook";
 import { Booking } from "@/app/components/Booking";
 import { Footer } from "@/app/components/Footer";
@@ -16,7 +16,7 @@ export default function App() {
         <Hero />
         <About />
         <Catalog />
-        <Gallery />
+        {/*<Gallery />*/}
         <HowToBook />
         <Booking />
         <Footer />

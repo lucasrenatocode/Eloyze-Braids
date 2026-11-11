@@ -1,4 +1,4 @@
-import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
+/*import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
 import { Eyebrow } from "@/app/components/Eyebrow";
 import { Reveal } from "@/app/components/Reveal";
 import { images } from "@/app/data/content";
@@ -36,3 +36,4 @@ export function Gallery() {
     </section>
   );
 }
+*/
